@@ -1,2 +1,3 @@
 # hello-world
-about frigging time
+
+it's a pleasure to be here! though if i'm honest i'd rather be skiing...
